@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse - Your Study Companion",
+  "description": "Production-ready offline-first student productivity suite with AI study planner, task management, local AI tutor, Pomodoro timer, assignment breakdown, and productivity dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
